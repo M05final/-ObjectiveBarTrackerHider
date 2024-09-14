@@ -19,7 +19,7 @@ end
 
 -- Function to show help information for the addon
 local function ShowHelp()
-    print("|cffffa500Disable Objective Tracker v" .. addonVersion .. " - Help|r")
+    print("|cffffa500Objective Bar Tracker Hider v" .. addonVersion .. " - Help|r")
     print()
     print("|cffffa500/ot|r          - Toggle the visibility of the Objective Tracker")
     print("|cffffa500/ot show|r     - Show the Objective Tracker")
