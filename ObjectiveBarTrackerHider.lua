@@ -85,7 +85,7 @@ local function ShowCustomPopup()
     text:SetPoint("BOTTOMRIGHT", frame, "BOTTOMRIGHT", -10, 50)  -- Allow text to wrap within the frame
     text:SetJustifyH("LEFT")
     text:SetJustifyV("TOP")
-    text:SetText("                                              Welcome to Disable Objective Tracker v1.0.0!\n\n" .. 
+    text:SetText("                                              Welcome to Objective Bar Tracker Hider v1.0.0!\n\n" .. 
              "               |cffffa500Thank you for installing my addon. Here's a quick overview of what you can do:\n\n" .. 
              "              |cffffffffCommands:\n\n" .. 
              "                  |cffffa500/ot|r                               - Toggle the visibility of the Objective Tracker\n" .. 
@@ -103,7 +103,7 @@ local function ShowCustomPopup()
              "  - Basic functionality to toggle the Objective Tracker\n" .. 
              "  - Auto-hiding feature\n" .. 
              "  - Support for slash commands\n\n" .. 
-             "Thank you for using Disable Objective Tracker!")
+             "Thank you for using Objective Bar Tracker Hider!")
 
 
 
