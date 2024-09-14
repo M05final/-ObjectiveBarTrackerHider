@@ -1,0 +1,13 @@
+## Interface: 110005
+## Title: ObjectiveBarTrackerHider
+## Notes: Control and customize the Objective Tracker's visibility and auto-hiding features with this simple addon.
+## Author: M05final
+## Version: v1.0.0
+## SavedVariables: autoHideSettings
+## X-Date: 2024-09-10T12:00:00Z
+## IconTexture: Interface/AddOns/ObjectiveBarTrackerHider/Icons/Icon.tga
+
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+ObjectiveBarTrackerHider.lua
