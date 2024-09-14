@@ -58,7 +58,7 @@ local function ShowCustomPopup()
     end
 
     local frame = CreateFrame("Frame", "CustomPopup", UIParent, "BackdropTemplate")
-    frame:SetSize(600, 380)  -- Set size to fit the text
+    frame:SetSize(600, 500)  -- Set size to fit the text
     frame:SetPoint("CENTER", UIParent, "CENTER", 0, 300)  -- Center on the screen with a higher offset
 
     -- Dark solid black background
